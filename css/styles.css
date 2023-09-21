@@ -32,16 +32,6 @@ body {
 
 .header-logo {
   font-family: "Raleway", sans-serif;
-  color: #2e2f42;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-
-.header-logo-blue {
-  font-family: "Raleway", sans-serif;
   color: #4d5ae5;
   font-size: 18px;
   font-weight: 700;
@@ -50,7 +40,18 @@ body {
   text-transform: uppercase;
 }
 
+.header-logo-white {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
 .header-menu {
+  color: #2e2f42;
 }
 
 .header-menu-item {
